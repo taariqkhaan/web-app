@@ -1,0 +1,17 @@
+create an app using react.js and vite on webstorm IDE.
+the backend logic will be using fast api.
+that will display the following in tabular format.
+
+each project will have project name in column1,
+WO# in column 2,
+Activity Code in column 3,
+Total labor amount in column 4,
+Total expenses amount in column 5,
+Total travel amount in column 6,
+Total Tier 1 & 2 fee in column 7,
+Total budget amount in column 8
+
+each of the line item will be expandable with 5 substasks
+ called physical, P&C, Telecom, Transmission, scoping, each with the 7 other columns listed above.
+
+ there will be an expand button before each project item that will expand or collapse substasks.
